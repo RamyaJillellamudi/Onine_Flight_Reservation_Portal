@@ -94,3 +94,11 @@ Travel management companies can utilize the application to facilitate flight boo
 Conclusion:
 
 The Flight Ticket Booking web application project aims to provide users with a convenient and user-friendly platform to search for flights, book tickets, and manage their bookings. The system includes user and admin interfaces to cater to their specific requirements. While the project offers advantages in terms of ease of use and booking management, it has limitations in terms of scope, seat count assumption, payment integration, security considerations, and scalability. The application finds potential applications in online travel agencies, airlines, and travel management companies, enhancing their service offerings in flight ticket reservations
+
+
+
+<img width="479" alt="image" src="https://github.com/RamyaJillellamudi/Onine_Flight_Reservation_Portal/assets/126648225/9ccc428a-4e7f-4a25-b9a3-94e5839c759c">
+
+
+<img width="478" alt="image" src="https://github.com/RamyaJillellamudi/Onine_Flight_Reservation_Portal/assets/126648225/35de0bb3-c39c-4041-8667-c50385efe2e4">
+
